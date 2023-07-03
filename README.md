@@ -1,6 +1,6 @@
 # Coffee Shop
 
-<img src="https://github.com/SKeval/coffee_shop_ui/assets/100701924/59b3e119-3f8b-4b50-b5fd-d723f2a1bb82" data-canonical-src="https://github.com/SKeval/coffee_shop_ui/assets/100701924/59b3e119-3f8b-4b50-b5fd-d723f2a1bb82" width="200" height="400" />
+<img src="https://github.com/SKeval/coffee_shop_ui/assets/100701924/fb0f6ddb-5717-4269-b1b9-b6805323609f" data-canonical-src="https://github.com/SKeval/coffee_shop_ui/assets/100701924/fb0f6ddb-5717-4269-b1b9-b6805323609f" width="200" height="400" />
 
 <img src="https://github.com/SKeval/coffee_shop_ui/assets/100701924/59b3e119-3f8b-4b50-b5fd-d723f2a1bb82" data-canonical-src="https://github.com/SKeval/coffee_shop_ui/assets/100701924/59b3e119-3f8b-4b50-b5fd-d723f2a1bb82" width="200" height="400" />
 
